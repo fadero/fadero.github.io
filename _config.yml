@@ -3,10 +3,10 @@
 
 # Site settings
 title: Tanner Fadero
-description: |  
-  Graduate Researcher  
-  <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Paul Maddox Lab</a>
-  <a href="https://bio.unc.edu">Biology Department - UNC Chapel Hill</a>
+description: <br>
+  Graduate Researcher  <br>
+  <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Paul Maddox Lab</a><br>
+  <a href="https://bio.unc.edu">Biology Department - UNC Chapel Hill</a><br>
 owner: Tanner Fadero
 first_published: 2019 # if migrating another site, the year of your first publish
 email: tanner.fadero@gmail.com
